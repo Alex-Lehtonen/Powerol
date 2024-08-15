@@ -2,7 +2,7 @@
 session_start();
 $_SESSION['test'] = "Sessionen är igång";
 $host = '127.0.0.1';
-$db   = '2024_login';
+$db   = '2024_powerol';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
