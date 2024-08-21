@@ -17,14 +17,14 @@ if(isset($_POST['ny-bil'])) {
             <label for="register">Register:</label><br>
 			<input type="text" id="register" name="register" value="" required="required"><br>
 
-            <label for="märke">Märke:</label><br>
-			<input type="text" id="märke" name="märke" value="" required="required"><br>
+            <label for="marke">Märke:</label><br>
+			<input type="text" id="marke" name="marke" value="" required="required"><br>
 
             <label for="modell">Modell:</label><br>
 			<input type="text" id="modell" name="modell" value="" required="required"><br>
 
-            <label for="färg">Färg:</label><br>
-			<input type="text" id="färg" name="färg" value="" required="required"><br>
+            <label for="farg">Färg:</label><br>
+			<input type="text" id="farg" name="farg" value="" required="required"><br>
 
 
 			<input type="submit" name="ny-bil" value="Submit">
