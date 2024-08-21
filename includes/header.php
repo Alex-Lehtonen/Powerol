@@ -15,6 +15,10 @@ $menuLinks = array(
     array(
         "title" => "Account",
         "url" => "account.php"
+	),
+	array(
+        "title" => "Ny projekt",
+        "url" => "new-projekt.php"
     )
 );
 // Menylänkar synliga enbart för admins
